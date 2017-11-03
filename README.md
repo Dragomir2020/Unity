@@ -7,7 +7,7 @@ Set of Unity games and assets
 - Text based adventure game
 - Makes use of multiple states to keep track of game progress
 ### Game Design State Diagram (1st Section)
-![Alt text](GD_0.png?raw=true "First Section")
+![Alt text](img/GD_0.png?raw=true "First Section")
 
 ### Game Design State Diagram (2nd Section)
-![Alt text](GD_1.png?raw=true "Second Section")
+![Alt text](img/GD_1.png?raw=true "Second Section")
