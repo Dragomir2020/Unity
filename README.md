@@ -14,5 +14,3 @@ Set of Unity games and assets
 ### Game Design State Diagram (2nd Section)
 ![Alt text](img/GD_1.png?raw=true "Second Section")
 
-#### Game URL
-https://dragomir2020.github.io/Unity/Text101_UnityBuild/index.html
