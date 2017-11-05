@@ -25,7 +25,7 @@ public class TextController : MonoBehaviour {
 		} else if (myState == States.sheets_0) {
 			sheets_0 ();
 		} else if (myState == States.sheets_1) {
-			sheets_1 ();
+			sheets_1 ();g
 		} else if (myState == States.lock_0) {
 			lock_0 ();
 		} else if (myState == States.lock_1) {
